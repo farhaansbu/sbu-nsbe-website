@@ -321,11 +321,11 @@
 {
   .timeline{
     margin-inline: 10%;
-    animation: none;
   }
 
   .timeline::after{
     height: 100%;
+    animation: none;
   }
   
   .tl_entry{
