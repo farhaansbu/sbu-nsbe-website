@@ -321,6 +321,7 @@
 {
   .timeline{
     margin-inline: 10%;
+    height: 100%;
   }
   .tl_entry{
     padding: 10px 20px;
